@@ -1,6 +1,6 @@
 ### Olá,me chamo Pedro Vitor 👋
 🔭 Sou apixonado por progamação
- <strong>fazendo graduação em Analise e Desenvolvimento de sistemas</strong>
+fazendo graduação em  <strong> Analise e Desenvolvimento de sistemas</strong>
 
 <div align="center">
   <a href="https://github.com/Kaneki77">
